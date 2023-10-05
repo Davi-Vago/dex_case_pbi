@@ -1,0 +1,13 @@
+Os dados estão em anexo que contém uma série de informações e que você tem liberdade para nos apresentar novos indicadores, mas queremos ver ao menos:
+
+Total Vendido;
+Total Vendido por Ano/Semestre/Trimestre/Mês;
+Quantidade de Vendas por Tipo de Promoção;
+Total Faturado por País;  - Conceito de faturamento 
+Ticket Médio, considerando que é o Total Vendido divido pela quantidade distinta de pedidos.
+Ticket Médio por Categoria de Produto/Subcategoria e Produto.
+Top 10 empregados pelo Total Vendido;
+Preço Unitário Médio por Linha de Produto (ProductLine) das Lojas;
+ 
+
+Quanto à exibição de gráficos e layout fique à vontade em explorar da melhor forma, bem como utilizar um layout moderno e clean.
