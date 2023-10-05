@@ -19,7 +19,7 @@ Quanto à exibição de gráficos e layout fique à vontade em explorar da melho
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Porjeto dashboad "DEX BICYCLE FACTORY"
+Projeto dashboad "DEX BICYCLE FACTORY"
 
 
 ETAPAS DO PROJETO
